@@ -1,0 +1,32 @@
+{
+    "usuario":[
+        {
+            "titulo":"Armando",
+            "longitude": 13.3095,
+            "latitude":-8.9387
+        },
+        {
+            "titulo":"Mauro",
+            "longitude": 13.3097,
+            "latitude":-8.9382
+        }
+        ,
+        {
+            "titulo":"Elizandro",
+            "longitude": 13.3095,
+            "latitude":-8.9382
+        }
+        ,
+        {
+            "titulo":"Edmundo",
+            "longitude": 13.3095,
+            "latitude":-8.9385
+        }
+        ,
+        {
+            "titulo":"Edmundo",
+            "longitude": 13.3045,
+            "latitude":-8.9385
+        }
+    ]
+}
